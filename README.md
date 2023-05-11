@@ -1,3 +1,3 @@
 # goit-markup-hw-02
 
-<a href="https://github.com/Cinek1592/goit-markup-hw-02">https://github.com/Cinek1592/goit-markup-hw-02</a>
+<a href="https://cinek1592.github.io/goit-markup-hw-02/">https://cinek1592.github.io/goit-markup-hw-02/</a>
