@@ -42,7 +42,28 @@
   text-transform: uppercase;
   color: #ffffff;
 }
+.li-paragraph {
+  color: #757575;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+}
 
 .adress-font {
   font-style: normal;
+}
+.heading-2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+}
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+.team-spec {
+  color: #757575;
+  font-size: 16px;
+  line-height: 19px;
 }
