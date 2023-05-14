@@ -31,8 +31,10 @@
 .contact-footer:focus {
   color: #2196f3;
 }
-.button:hover {
+.button-order {
   cursor: pointer;
+  background-color: #2196f3;
+  -webkit-text-fill-color: #ffffff;
 }
 .heading {
   background: #2f303a;
@@ -84,4 +86,27 @@
 }
 .footer-logo {
   color: #ffffff;
+}
+.button {
+  font-weight: 500;
+  width: 93px;
+  height: 2.44;
+  background: #f5f4fa;
+}
+.button:focus,
+.button:hover {
+  font-weight: 500;
+  cursor: pointer;
+  background-color: #2196f3;
+  -webkit-text-fill-color: #ffffff;
+}
+.li-tittle {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+}
+.li-p {
+  font-size: 16px;
+  line-height: 1.87;
+  color: #757575;
 }
